@@ -20,3 +20,7 @@ Features :
 - Tag editor support
 
 - Library scan
+
+
+
+Email: hammadbhat126@gmail.com
